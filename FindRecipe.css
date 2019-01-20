@@ -10,24 +10,12 @@ button {
 	padding: 30px;
 	border-width: 10px;
 	border-color: #8FBC8F;
+}
 
-}
-.foodpic {
-  margin-right: 300px;
-  float:right;
-  margin-top: -300px;
-}
-.tamales {
-  width: 250px;
-  height: 250px;
-}
-.bbq {
-  width: 250px;
-  height: 250px;
-}
-.curry {
-  width: 250px;
-  height: 250px;
+.column {
+	font-size:30px;
+	padding: 30px;
+	margin:center;
 }
 
 .inspo {
@@ -44,8 +32,8 @@ button {
 	 float: right;
   	width: 151px;
   	padding: 10px;
-  	margin-top: -24px;	
-  	<!--margin-right: 0px;-->
+  	margin-top: 280px;	
+  	margin-right: 2px;
 	<!--margin-top:-55px;-->
 	font-size: 17px;
 	border:1px solid grey;
@@ -84,8 +72,8 @@ form.topNav button {
   float: right;
   width: 140px;
   padding: 10px;
+  margin-right: 10px;
   margin-top: -10px;
-  margin-right:8px;
   background: black;
   color: white;
   font-size: 17px;
